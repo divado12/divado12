@@ -1,4 +1,4 @@
-Hi, I’m David Cazares. I am interested in machine learning and neural networks. 
+Hi, I’m David Cazares. I am interested in the intersection of medicine and computing. 
 
 www.linkedin.com/in/david-cazares-dorantes/
 
